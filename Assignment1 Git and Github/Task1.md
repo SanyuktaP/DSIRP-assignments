@@ -1,3 +1,5 @@
+# Git Basic commands
+
 ### 1) git config
 ##### This command sets the author name and email address respectively to be used with your commits.
 ```bash
@@ -117,4 +119,20 @@ git branch
 git branch [branch name]
 ```
 
+### 14) git Merge 
+##### This command is used to merge the specified branch?s history into the current branch.
+```bash
+git merge [BranchName] 
+```
 
+### 15) git push 
+##### This command sends the changes made on the master branch, to your remote repository.
+```bash
+git push [variable name] master  
+```
+
+### 16) Git pull 
+##### Pull command is used to receive data from GitHub. It fetches and merges changes on the remote server to your working directory.
+```bash
+git pull [URL]  
+```
