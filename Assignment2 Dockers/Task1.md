@@ -1,4 +1,4 @@
-#Demonstrate minimum 15 basic docker command with explanation.
+# Demonstrate minimum 15 basic docker command with explanation.
 ### 1) Images 
 #### Lists all the docker images pulled on the system with image details such as TAG/IMAGE ID/SIZE etc.
 ```bash
