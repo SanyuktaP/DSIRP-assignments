@@ -4,6 +4,7 @@
 ```bash
 docker images
 ```
+![t1](https://user-images.githubusercontent.com/97040413/195176747-d87aec72-5fa4-4a95-97a3-4bcf2881c907.png)
 
 ### 2) Run  
 #### Runs the docker image mentioned in the command. This command will create a docker container in which the Apache HTTP server will run.
