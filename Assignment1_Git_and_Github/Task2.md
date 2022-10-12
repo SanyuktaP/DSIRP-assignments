@@ -3,3 +3,7 @@
 ### 2) Proper Readme
 ### 3) Add 2 collaborator
 #### Host GitHub Pages using settings (Designed to host your personal, organization, or project pages from a GitHub repository)
+
+## Open Project source link: https://github.com/SanyuktaP/BostonHousePricing
+
+## Collaborator
