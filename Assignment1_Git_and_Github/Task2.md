@@ -7,3 +7,4 @@
 ## Open Project source link: https://github.com/SanyuktaP/BostonHousePricing
 
 ## Collaborator
+![p1](https://user-images.githubusercontent.com/97040413/195420999-8c7b9b7c-bd0f-4346-8173-6b30e0ee185c.png)
