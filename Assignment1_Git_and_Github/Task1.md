@@ -138,6 +138,7 @@ git merge [BranchName]
 ```bash
 git push [variable name] master  
 ```
+![t15](https://user-images.githubusercontent.com/97040413/195425355-a3bae639-1572-4a87-ab6f-8a7a046300a2.png)
 
 ### 16) Git pull 
 ##### Pull command is used to receive data from GitHub. It fetches and merges changes on the remote server to your working directory.
