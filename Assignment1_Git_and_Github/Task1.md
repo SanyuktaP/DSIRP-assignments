@@ -145,3 +145,5 @@ git push [variable name] master
 ```bash
 git pull [URL]  
 ```
+![t16](https://user-images.githubusercontent.com/97040413/195425996-63b1dfe6-5279-493a-a6c8-774c9bd3f8d9.png)
+
